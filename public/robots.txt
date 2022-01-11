@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: /
+Disallow:
 Crawl-delay: 5
 Sitemap: https://stjosephspublicschool.cf/sitemap.xml
